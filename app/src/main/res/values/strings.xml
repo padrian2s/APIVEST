@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">APIVEST</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="flori">
+        <item>Salcam</item>
+        <item>Floarea Soarelui</item>
+        <item>Poli</item>
+    </string-array>
+
+</resources>
+
+
